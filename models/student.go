@@ -1,5 +1,7 @@
 package models
 
+// 合并提交2
+
 type Student struct {
 	Id       int    `json:"id"`
 	Username string `json:"username"`
