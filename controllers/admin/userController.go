@@ -1,5 +1,6 @@
 package admin
 
+// test 2
 import (
 	"github.com/gin-gonic/gin"
 	"go-study/models"

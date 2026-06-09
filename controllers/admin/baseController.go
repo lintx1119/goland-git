@@ -1,5 +1,6 @@
 package admin
 
+// test 1
 import "github.com/gin-gonic/gin"
 
 type BaseController struct{}
